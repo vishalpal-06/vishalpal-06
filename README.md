@@ -1,4 +1,4 @@
-[![MasterHead](https://impulsohumano.mx/wp-content/uploads/2019/01/peopleanalytics.jpg)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar Pal</h1>
 <h3 align="center">Student</h3>
