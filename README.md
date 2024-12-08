@@ -1,6 +1,6 @@
 <a href="https://credentials.databricks.com/e95c19df-6412-48de-aaa0-7e81d0ce4dde#acc.7z3VmFhH" target="blank"><img align="left" src="https://www.databricks.com/sites/default/files/styles/max_1000x1000/public/2024-05/associate-badge-de.png?itok=DKu0PgaV&v=1717145547" alt="19475519" height="170" width="140" /></a>
 <a href="https://learn.microsoft.com/en-us/users/vishalkumarmahendrapratappal-8724/credentials/906f299de35584a6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="blank"><img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSct_3cDzbNlImkZ_F5AZXi-Oo7gFqVSeOBeg&s" alt="vishalmahendrapal" height="170" width="150" /></a>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Vishal Kumar Pal</h1>
 <h3 align="center">Data Enginner</h3>
 <br>
