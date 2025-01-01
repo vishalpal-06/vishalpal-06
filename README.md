@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Pal</h1>
 <h3 align="center">Data Enginner</h3>
 <br>
-<img align="right" alt="Data Enginnering Process" width="400" src="https://www.pickl.ai/blog/wp-content/uploads/2024/10/ETL-Data-800x500.jpg">
+
 
 - I work as a Data Engineer with **AWS Redshift and Databricks, using Apache Spark and Python** to build scalable data pipelines. I manage data ingestion, transformation, and loading (ETL) processes, ensuring efficient storage and analytics while optimizing performance and automating workflows.
 
