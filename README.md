@@ -2,8 +2,8 @@
 <a href="https://learn.microsoft.com/en-us/users/vishalkumarmahendrapratappal-8724/credentials/906f299de35584a6?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="blank"><img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSct_3cDzbNlImkZ_F5AZXi-Oo7gFqVSeOBeg&s" alt="vishalmahendrapal" height="170" width="150" /></a>
 <br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Vishal Kumar Pal</h1>
-<h3 align="center">Data Enginner</h3>
-<br>
+<h2 align="center">Data Enginner</h2>
+
 
 
 - I work as a Data Engineer with **AWS Redshift and Databricks, using Apache Spark and Python** to build scalable data pipelines. I manage data ingestion, transformation, and loading (ETL) processes, ensuring efficient storage and analytics while optimizing performance and automating workflows.
