@@ -13,5 +13,3 @@
 <a href="https://stackoverflow.com/users/19475519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19475519" height="30" width="40" /></a></t>
 <a href="https://kaggle.com/vishalmahendrapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalmahendrapal" height="30" width="40" /></a>
 <br><br>
-
-AIzaSyBR6smJn7kD_gi9NCRllXeH2kB4R3OSVyo
