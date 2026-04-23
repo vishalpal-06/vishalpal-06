@@ -25,6 +25,13 @@ My main interest areas are **ETL/ELT pipelines, data warehousing, lakehouse arch
 
 
 
+https://docs.google.com/forms/d/e/1FAIpQLSdDvX5jvRW7bjUoAQANDM0r_b610Cm7b2Q1bwCRa8YBClOP_g/viewform?usp=s
+
+
+
+
+
+
 
 
 
